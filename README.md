@@ -7,7 +7,7 @@ See the report :
 ![Power BI Report](Report.jpg)
 
 Check full dashboard :
-![Power BI Dashboard]()
+![Power BI Dashboard](app.powerbi.com/view?r=eyJrIjoiOWJhYTlmNGItYWU2Zi00YTkzLTgwOTItNTQ0YzMxODlhMWRiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9")
 
 Project Process :
 
