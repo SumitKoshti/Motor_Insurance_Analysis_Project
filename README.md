@@ -14,8 +14,8 @@ Check full dashboard -->>
 This end-to-end analytics project leveraged ☁️ Azure, ❄️ Snowflake, 📊 Power BI, and 🐙 GitHub to analyze motor insurance data and uncover key business insights.
 
 ☁️ 1. Data Storage in Azure
-Created Resource Group, Storage Account, and Blob Container
-Uploaded raw datasets into Azure Blob Storage
+a. Created Resource Group, Storage Account, and Blob Container
+b. Uploaded raw datasets into Azure Blob Storage
 
 ❄️ 2. Data Ingestion via Snowflake
 Configured Storage Integration between Azure and Snowflake
