@@ -66,10 +66,10 @@ Fare Paying Passengers: $349M
 
 🧍 Claim Behavior by Gender Category
 . Gender Code ‘0’ accounted for over 63% of total claims
-➤ This demographic may represent a higher risk profile and needs further segmentation.
+. ➤ This demographic may represent a higher risk profile and needs further segmentation.
 
 🚙 Top Claiming Vehicle Manufacturers
 . Toyota, Isuzu, and Nissan were the top 3 brands with the highest claim volume
-➤ May reflect brand popularity, usage in high-risk segments, or vehicle durability factors.
+. ➤ May reflect brand popularity, usage in high-risk segments, or vehicle durability factors.
 
 
