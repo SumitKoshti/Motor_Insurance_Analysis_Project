@@ -7,7 +7,7 @@ See the report :
 ![Power BI Report](Report.jpg)
 
 Check full dashboard :
-[Power BI Dashboard!](<iframe title="Insurance_Data_Analysis_Project" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiOWJhYTlmNGItYWU2Zi00YTkzLTgwOTItNTQ0YzMxODlhMWRiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9" frameborder="0" allowFullScreen="true"></iframe>)
+[Power BI Dashboard!](https://app.powerbi.com/view?r=eyJrIjoiOWJhYTlmNGItYWU2Zi00YTkzLTgwOTItNTQ0YzMxODlhMWRiIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 Project Process :
 
