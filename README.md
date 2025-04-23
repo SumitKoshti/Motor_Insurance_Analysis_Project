@@ -4,7 +4,7 @@ To understand the root causes of these losses, an in-depth analysis is required 
 The objective is to identify actionable insights that could have potentially prevented the losses and provide strategic recommendations for future players in the motor insurance domain to avoid similar pitfalls.
 
 See the report :
-![Power BI Report]()
+![Power BI Report](Report.jpg)
 
 Check full dashboard :
 ![Power BI Dashboard]()
